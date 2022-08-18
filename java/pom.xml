@@ -7,7 +7,7 @@
   <parent>
     <groupId>com.amido.stacks.modules</groupId>
     <artifactId>stacks-modules-parent</artifactId>
-    <version>1.0.0-RC5</version>
+    <version>2.0.3-RELEASE</version>
   </parent>
 
   <artifactId>stacks-core-cqrs</artifactId>
@@ -19,14 +19,6 @@
     <stacks.core.commons.version>1.0.0</stacks.core.commons.version>
   </properties>
 
-  <repositories>
-    <repository>
-      <snapshots/>
-      <id>snapshots</id>
-      <name>default-maven-virtual</name>
-      <url>https://amidostacks.jfrog.io/artifactory/default-maven-virtual</url>
-    </repository>
-  </repositories>
 
   <dependencies>
 
